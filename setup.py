@@ -8,7 +8,7 @@ readme = (root / 'README.md').read_text()
 setup(
     name='kitten-rng',
     version='1.2.0',
-    description='''an rng that generates its numbers based off of a
+    description='''an random number generator that generates its numbers based off of a
         kitten livestream''',
     long_description=readme,
     long_description_content_type='text/markdown',
