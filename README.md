@@ -1,4 +1,4 @@
-# Kitten RNG
+# Kitten Random Number Generator
 
 ## What?
 
