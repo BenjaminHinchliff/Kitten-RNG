@@ -2,7 +2,7 @@
 
 ## What?
 
-It's a wonderfully practical python module that generates random numbers based off a kitten livestream. 
+It's a wonderfully practical python module that generates random numbers based off a kitten livestream (in refernce to a meme).
 
 ## Installation
 
